@@ -1,0 +1,102 @@
+Controlador de execução do SIMAN.
+
+13.301282 Horas>Controlador de execução do SIMAN.
+
+22.478671 Horas>
+                                      ARENA Simulation Results
+                              andre-zzz@hotmail.com - License: STUDENT
+
+                                  Sumário para Replicação 1 de 1
+
+Projeto: Unnamed Project                                             Data da execução :11/ 6/2018
+Analista: andre                                                       Data de revisão do modelo:11/ 6/2018
+
+Replicação terminada no tempo de      : 22.478671 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             9.1080     (Insuf)    5.3063     12.889          5    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000          5    
+Entity 1.WaitTime                           2.4476     (Insuf)    .28505     4.3536          5    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000          5    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000          5    
+Entity 1.TotalTime                          11.555     (Insuf)    5.5913     15.632          5    
+Parked at common.Queue.WaitingTime          2.4526     (Insuf)    .00000     6.2024          6    
+Parked at Senior.Queue.WaitingTime              --         --         --         --          0
+Parked at Disable.Queue.WaitingTime             --         --         --         --          0
+Vehicle in entrance queue.Queue.WaitingTim  .33288     (Insuf)    .00000     .92949         17    
+Vehicle in exit station.Queue.WaitingTime   .36447     (Insuf)    .00000     1.1424          9    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                6.8674     (Insuf)    .00000     13.000     12.000    
+Resource 9.NumberBusy                       .29828     (Insuf)    .00000     1.0000     1.0000    
+Resource 9.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 9.Utilization                      .29828     (Insuf)    .00000     1.0000     1.0000    
+Resource 8.NumberBusy                       .29828     (Insuf)    .00000     1.0000     1.0000    
+Resource 8.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 8.Utilization                      .29828     (Insuf)    .00000     1.0000     1.0000    
+Resource 7.NumberBusy                       .29828     (Insuf)    .00000     1.0000     1.0000    
+Resource 7.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 7.Utilization                      .29828     (Insuf)    .00000     1.0000     1.0000    
+Resource 6.NumberBusy                       .29828     (Insuf)    .00000     1.0000     1.0000    
+Resource 6.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 6.Utilization                      .29828     (Insuf)    .00000     1.0000     1.0000    
+Resource 5.NumberBusy                       .29828     (Insuf)    .00000     1.0000     1.0000    
+Resource 5.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 5.Utilization                      .29828     (Insuf)    .00000     1.0000     1.0000    
+Resource 4.NumberBusy                       .29828     (Insuf)    .00000     1.0000     1.0000    
+Resource 4.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 4.Utilization                      .29828     (Insuf)    .00000     1.0000     1.0000    
+Resource 3.NumberBusy                       .66299     (Insuf)    .00000     1.0000     1.0000    
+Resource 3.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 3.Utilization                      .66299     (Insuf)    .00000     1.0000     1.0000    
+Resource 2.NumberBusy                       .73617     (Insuf)    .00000     1.0000     1.0000    
+Resource 2.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 2.Utilization                      .73617     (Insuf)    .00000     1.0000     1.0000    
+Resource 1.NumberBusy                       .70515     (Insuf)    .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .70515     (Insuf)    .00000     1.0000     1.0000    
+Parked at common.Queue.NumberInQueue        1.2440     (Insuf)    .00000     4.0000     4.0000    
+Parked at Senior.Queue.NumberInQueue        .33977     (Insuf)    .00000     2.0000     2.0000    
+Parked at Disable.Queue.NumberInQueue       .01758     (Insuf)    .00000     1.0000     1.0000    
+Vehicle in entrance queue.Queue.NumberInQu  .25175     (Insuf)    .00000     3.0000     .00000    
+Vehicle in exit station.Queue.NumberInQueu  .14593     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Entity 1.NumberIn                           17.000    
+Entity 1.NumberOut                          5.0000    
+Resource 9.NumberSeized                     6.0000    
+Resource 9.ScheduledUtilization             .29828    
+Resource 8.NumberSeized                     6.0000    
+Resource 8.ScheduledUtilization             .29828    
+Resource 7.NumberSeized                     6.0000    
+Resource 7.ScheduledUtilization             .29828    
+Resource 6.NumberSeized                     6.0000    
+Resource 6.ScheduledUtilization             .29828    
+Resource 5.NumberSeized                     6.0000    
+Resource 5.ScheduledUtilization             .29828    
+Resource 4.NumberSeized                     6.0000    
+Resource 4.ScheduledUtilization             .29828    
+Resource 3.NumberSeized                     13.000    
+Resource 3.ScheduledUtilization             .66299    
+Resource 2.NumberSeized                     15.000    
+Resource 2.ScheduledUtilization             .73617    
+Resource 1.NumberSeized                     16.000    
+Resource 1.ScheduledUtilization             .70515    
+System.NumberOut                            5.0000    
+
+
+Tempo executando a simulação: 2.35 minutos.
+Simulação completada.

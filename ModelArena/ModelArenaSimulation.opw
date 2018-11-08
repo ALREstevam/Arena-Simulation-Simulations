@@ -1,0 +1,32 @@
+[RESOURCES]
+Resource 9
+Resource 8
+Resource 7
+Resource 6
+Resource 5
+Resource 4
+Resource 3
+Resource 2
+Resource 1
+[VARIABLES]
+SeniorDecide.NumberOut True
+DisabledDecide.NumberOut False
+Parked at Senior.NumberIn
+Parked at Senior.NumberOut
+Parked at common.NumberOut
+Vehicle in entrance queue.NumberOut
+Vehicle in entrance queue.NumberIn
+Parked at common.NumberIn
+DisabledDecide.NumberOut True
+SeniorDecide.NumberOut False
+Parked at Disable.NumberIn
+Parked at Disable.NumberOut
+Vehicle Exits.NumberOut
+Vehicle looking for parking lot.NumberIn
+Create Vehicle.NumberOut
+Vehicle in exit station.NumberOut
+Decide Vehicle can leave.NumberOut True
+Vehicle in exit station.NumberIn
+Decide Vehicle can leave.NumberOut False
+Variable 1
+Vehicle looking for parking lot.NumberOut
